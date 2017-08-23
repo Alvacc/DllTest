@@ -2,6 +2,6 @@
 
 int main() {
 
-	Hello_Ma();
+	//Hello_Ma();
 	return 0;
 }
