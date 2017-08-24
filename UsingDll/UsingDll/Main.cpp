@@ -7,7 +7,7 @@ int main(){
 
 	typedef int(*FUNC)();
 	HMODULE hDll = LoadLibrary("DllTest.dll");
-	FUNC Main_Hello_Ma = (FUNC)GetProcAddress(hDll, "Hello_Wang");
+	FUNC Main_Hello_Ma = (FUNC)GetProcAddress(hDll, "Hello_Ma");
 	Main_Hello_Ma();
 	return 0;
 }

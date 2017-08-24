@@ -1,0 +1,17 @@
+﻿生成启动时间为 24/8/2017 9:27:35 AM。
+     1>项目“D:\Projects\DllTest\DllTest\DllTest.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Hello_Ma.cpp test.cpp
+         test.cpp
+         Hello_Ma.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\DllTest\Debug\DllTest.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projects\DllTest\Debug\DllTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\DllTest\Debug\DllTest.lib" /MACHINE:X86 Debug\Hello_Ma.obj
+         Debug\test.obj
+            正在创建库 D:\Projects\DllTest\Debug\DllTest.lib 和对象 D:\Projects\DllTest\Debug\DllTest.exp
+         DllTest.vcxproj -> D:\Projects\DllTest\Debug\DllTest.exe
+     1>已完成生成项目“D:\Projects\DllTest\DllTest\DllTest.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.02
